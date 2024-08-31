@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "duaa123321",
+    "database": "jwtAuth",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
